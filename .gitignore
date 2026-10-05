@@ -4,6 +4,7 @@
 #Exclude general
 SECRET/
 
+
 # Logs
 logs
 *.log
