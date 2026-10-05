@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2024,
+    "top_speed_kmh": 180
+  },
+  {
+    "id": 2,
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2024,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 3,
+    "brand": "Toyota",
+    "model": "Prius",
+    "year": 2023,
+    "top_speed_kmh": 177
+  },
+  {
+    "id": 4,
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2024,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 5,
+    "brand": "Toyota",
+    "model": "Yaris",
+    "year": 2023,
+    "top_speed_kmh": 175
+  },
+  {
+    "id": 6,
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2024,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 7,
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2024,
+    "top_speed_kmh": 208
+  },
+  {
+    "id": 8,
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2023,
+    "top_speed_kmh": 195
+  },
+  {
+    "id": 9,
+    "brand": "Honda",
+    "model": "HR-V",
+    "year": 2024,
+    "top_speed_kmh": 195
+  },
+  {
+    "id": 10,
+    "brand": "Honda",
+    "model": "Pilot",
+    "year": 2023,
+    "top_speed_kmh": 180
+  },
+  {
+    "id": 11,
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 12,
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2023,
+    "top_speed_kmh": 222
+  },
+  {
+    "id": 13,
+    "brand": "Ford",
+    "model": "Fiesta",
+    "year": 2022,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 14,
+    "brand": "Ford",
+    "model": "Explorer",
+    "year": 2024,
+    "top_speed_kmh": 180
+  },
+  {
+    "id": 15,
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2023,
+    "top_speed_kmh": 190
+  },
+  {
+    "id": 16,
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 17,
+    "brand": "BMW",
+    "model": "5 Series",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 18,
+    "brand": "BMW",
+    "model": "7 Series",
+    "year": 2023,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 19,
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 20,
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2023,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 21,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 22,
+    "brand": "Mercedes-Benz",
+    "model": "E-Class",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 23,
+    "brand": "Mercedes-Benz",
+    "model": "S-Class",
+    "year": 2023,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 24,
+    "brand": "Mercedes-Benz",
+    "model": "GLC",
+    "year": 2024,
+    "top_speed_kmh": 240
+  },
+  {
+    "id": 25,
+    "brand": "Mercedes-Benz",
+    "model": "GLE",
+    "year": 2023,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 26,
+    "brand": "Audi",
+    "model": "A3",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 27,
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2023,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 28,
+    "brand": "Audi",
+    "model": "A6",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 29,
+    "brand": "Audi",
+    "model": "Q5",
+    "year": 2023,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 30,
+    "brand": "Audi",
+    "model": "Q7",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 31,
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 32,
+    "brand": "Volkswagen",
+    "model": "Polo",
+    "year": 2023,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 33,
+    "brand": "Volkswagen",
+    "model": "Passat",
+    "year": 2024,
+    "top_speed_kmh": 223
+  },
+  {
+    "id": 34,
+    "brand": "Volkswagen",
+    "model": "Tiguan",
+    "year": 2023,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 35,
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 36,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2024,
+    "top_speed_kmh": 201
+  },
+  {
+    "id": 37,
+    "brand": "Tesla",
+    "model": "Model S",
+    "year": 2023,
+    "top_speed_kmh": 322
+  },
+  {
+    "id": 38,
+    "brand": "Tesla",
+    "model": "Model X",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 39,
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 40,
+    "brand": "Tesla",
+    "model": "Cybertruck",
+    "year": 2024,
+    "top_speed_kmh": 209
+  },
+  {
+    "id": 41,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2024,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 42,
+    "brand": "Hyundai",
+    "model": "Sonata",
+    "year": 2023,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 43,
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2024,
+    "top_speed_kmh": 193
+  },
+  {
+    "id": 44,
+    "brand": "Hyundai",
+    "model": "Santa Fe",
+    "year": 2024,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 45,
+    "brand": "Hyundai",
+    "model": "Kona",
+    "year": 2023,
+    "top_speed_kmh": 195
+  },
+  {
+    "id": 46,
+    "brand": "Kia",
+    "model": "Rio",
+    "year": 2023,
+    "top_speed_kmh": 190
+  },
+  {
+    "id": 47,
+    "brand": "Kia",
+    "model": "Forte",
+    "year": 2024,
+    "top_speed_kmh": 205
+  },
+  {
+    "id": 48,
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2024,
+    "top_speed_kmh": 193
+  },
+  {
+    "id": 49,
+    "brand": "Kia",
+    "model": "Sorento",
+    "year": 2023,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 50,
+    "brand": "Kia",
+    "model": "Telluride",
+    "year": 2024,
+    "top_speed_kmh": 190
+  },
+  {
+    "id": 51,
+    "brand": "Nissan",
+    "model": "Sentra",
+    "year": 2024,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 52,
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2023,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 53,
+    "brand": "Nissan",
+    "model": "Maxima",
+    "year": 2023,
+    "top_speed_kmh": 215
+  },
+  {
+    "id": 54,
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2024,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 55,
+    "brand": "Nissan",
+    "model": "Pathfinder",
+    "year": 2024,
+    "top_speed_kmh": 190
+  },
+  {
+    "id": 56,
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2023,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 57,
+    "brand": "Chevrolet",
+    "model": "Camaro",
+    "year": 2023,
+    "top_speed_kmh": 290
+  },
+  {
+    "id": 58,
+    "brand": "Chevrolet",
+    "model": "Corvette",
+    "year": 2024,
+    "top_speed_kmh": 312
+  },
+  {
+    "id": 59,
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2024,
+    "top_speed_kmh": 193
+  },
+  {
+    "id": 60,
+    "brand": "Chevrolet",
+    "model": "Tahoe",
+    "year": 2023,
+    "top_speed_kmh": 180
+  },
+  {
+    "id": 61,
+    "brand": "Porsche",
+    "model": "911",
+    "year": 2024,
+    "top_speed_kmh": 320
+  },
+  {
+    "id": 62,
+    "brand": "Porsche",
+    "model": "718 Cayman",
+    "year": 2023,
+    "top_speed_kmh": 275
+  },
+  {
+    "id": 63,
+    "brand": "Porsche",
+    "model": "Panamera",
+    "year": 2024,
+    "top_speed_kmh": 315
+  },
+  {
+    "id": 64,
+    "brand": "Porsche",
+    "model": "Macan",
+    "year": 2024,
+    "top_speed_kmh": 272
+  },
+  {
+    "id": 65,
+    "brand": "Porsche",
+    "model": "Cayenne",
+    "year": 2023,
+    "top_speed_kmh": 305
+  },
+  {
+    "id": 66,
+    "brand": "Lexus",
+    "model": "IS",
+    "year": 2024,
+    "top_speed_kmh": 230
+  },
+  {
+    "id": 67,
+    "brand": "Lexus",
+    "model": "ES",
+    "year": 2023,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 68,
+    "brand": "Lexus",
+    "model": "LS",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 69,
+    "brand": "Lexus",
+    "model": "RX",
+    "year": 2024,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 70,
+    "brand": "Lexus",
+    "model": "NX",
+    "year": 2023,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 71,
+    "brand": "Volvo",
+    "model": "S60",
+    "year": 2024,
+    "top_speed_kmh": 180
+  },
+  {
+    "id": 72,
+    "brand": "Volvo",
+    "model": "S90",
+    "year": 2023,
+    "top_speed_kmh": 180
+  },
+  {
+    "id": 73,
+    "brand": "Volvo",
+    "model": "XC40",
+    "year": 2024,
+    "top_speed_kmh": 180
+  },
+  {
+    "id": 74,
+    "brand": "Volvo",
+    "model": "XC60",
+    "year": 2024,
+    "top_speed_kmh": 180
+  },
+  {
+    "id": 75,
+    "brand": "Volvo",
+    "model": "XC90",
+    "year": 2023,
+    "top_speed_kmh": 180
+  },
+  {
+    "id": 76,
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2024,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 77,
+    "brand": "Mazda",
+    "model": "Mazda6",
+    "year": 2023,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 78,
+    "brand": "Mazda",
+    "model": "CX-30",
+    "year": 2024,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 79,
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2024,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 80,
+    "brand": "Mazda",
+    "model": "CX-90",
+    "year": 2023,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 81,
+    "brand": "Subaru",
+    "model": "Impreza",
+    "year": 2024,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 82,
+    "brand": "Subaru",
+    "model": "Legacy",
+    "year": 2023,
+    "top_speed_kmh": 210
+  },
+  {
+    "id": 83,
+    "brand": "Subaru",
+    "model": "Crosstrek",
+    "year": 2024,
+    "top_speed_kmh": 198
+  },
+  {
+    "id": 84,
+    "brand": "Subaru",
+    "model": "Forester",
+    "year": 2024,
+    "top_speed_kmh": 193
+  },
+  {
+    "id": 85,
+    "brand": "Subaru",
+    "model": "Outback",
+    "year": 2023,
+    "top_speed_kmh": 193
+  },
+  {
+    "id": 86,
+    "brand": "Jaguar",
+    "model": "XE",
+    "year": 2023,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 87,
+    "brand": "Jaguar",
+    "model": "XF",
+    "year": 2024,
+    "top_speed_kmh": 250
+  },
+  {
+    "id": 88,
+    "brand": "Jaguar",
+    "model": "F-Type",
+    "year": 2023,
+    "top_speed_kmh": 300
+  },
+  {
+    "id": 89,
+    "brand": "Jaguar",
+    "model": "F-Pace",
+    "year": 2024,
+    "top_speed_kmh": 286
+  },
+  {
+    "id": 90,
+    "brand": "Jaguar",
+    "model": "I-Pace",
+    "year": 2023,
+    "top_speed_kmh": 200
+  },
+  {
+    "id": 91,
+    "brand": "Ferrari",
+    "model": "Roma",
+    "year": 2024,
+    "top_speed_kmh": 320
+  },
+  {
+    "id": 92,
+    "brand": "Ferrari",
+    "model": "296 GTB",
+    "year": 2023,
+    "top_speed_kmh": 330
+  },
+  {
+    "id": 93,
+    "brand": "Ferrari",
+    "model": "SF90 Stradale",
+    "year": 2024,
+    "top_speed_kmh": 340
+  },
+  {
+    "id": 94,
+    "brand": "Lamborghini",
+    "model": "Huracan",
+    "year": 2023,
+    "top_speed_kmh": 325
+  },
+  {
+    "id": 95,
+    "brand": "Lamborghini",
+    "model": "Urus",
+    "year": 2024,
+    "top_speed_kmh": 305
+  },
+  {
+    "id": 96,
+    "brand": "Lamborghini",
+    "model": "Revuelto",
+    "year": 2024,
+    "top_speed_kmh": 350
+  },
+  {
+    "id": 97,
+    "brand": "McLaren",
+    "model": "720S",
+    "year": 2023,
+    "top_speed_kmh": 341
+  },
+  {
+    "id": 98,
+    "brand": "McLaren",
+    "model": "Artura",
+    "year": 2024,
+    "top_speed_kmh": 330
+  },
+  {
+    "id": 99,
+    "brand": "Aston Martin",
+    "model": "DB12",
+    "year": 2024,
+    "top_speed_kmh": 325
+  },
+  {
+    "id": 100,
+    "brand": "Aston Martin",
+    "model": "Vantage",
+    "year": 2023,
+    "top_speed_kmh": 325
+  }
+]

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Live-code</title>
+  </head>
+  <body>
+    <p id="intro">Hej</p>
+
+    <script>
+      //INTRO
+      let myName = "Thomas";
+
+      let elementForEdit = document.getElementById("intro");
+
+      //elementForEdit.innerText = elementForEdit.innerText + " " + myName;
+
+      //elementForEdit.innerText +=myName;
+
+      document.write("<h1>Hello World</h1>");
+
+      console.log(elementForEdit);
+
+      //OBJEKTER
+      const Person = {
+        name: "Thomas",
+        age: 43,
+        occupation: "Teacher",
+
+        presentYourself: function () {
+          return "Hello, my name is " + this.name;
+        },
+      };
+
+      console.log(Person.name);
+      elementForEdit.innerText = elementForEdit.innerText + " " + Person.name;
+      console.log(Person.presentYourself());
+      elementForEdit.innerText = Person.presentYourself();
+
+      //FOR-LOOP
+
+      /*for (let i = 0; i < 10001; i++) {
+        document.write("<p id='" + i + "'>" + i + "</p>");
+      }*/
+
+      for (let i = 10001; i > 1; i -= 3) {
+        document.write("<p id='" + i + "'>" + i + "</p>");
+      }
+    </script>
+  </body>
+</html>

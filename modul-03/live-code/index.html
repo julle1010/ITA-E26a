@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Live-code</title>
+  </head>
+  <body>
+    <div id="persons"></div>
+
+    <h1 id="click-txt"></h1>
+
+    <button
+      onclick="
+        document.getElementById('click-txt').innerHTML = 'You clicked ze butten'
+      "
+    >
+      Click me!
+    </button>
+
+    <button id="clearBtn">Clear!</button>
+
+    <script>
+      document.getElementById("clearBtn").onclick = clearTxtinH1;
+      p1 = {
+        name: "Thomas",
+        age: 43,
+      };
+
+      p2 = {
+        name: "Halfdan",
+        age: 33,
+      };
+
+      p3 = {
+        name: "Knud",
+        age: 2,
+      };
+
+      p4 = {
+        name: "Bertil",
+        age: 89,
+      };
+
+      p5 = {
+        name: "Hans",
+        age: 77,
+      };
+
+      p6 = {
+        name: "Dan",
+        age: 5,
+      };
+      let persons = [p1, p2, p3, p4, p5, p6];
+
+      console.log(persons);
+
+      let personsElement = document.getElementById("persons");
+
+      /* persons.forEach(writeOut);
+
+      function writeOut(value) {
+        personsElement.innerHTML +=
+          "<p>" + value.name + "</p><p>" + value.age + "</p>";
+      }*/
+
+      /*
+      persons.forEach(function (value, index, array) {
+        personsElement.innerHTML +=
+          "<p>" + value.name + "</p><p>" + value.age + "</p>";
+        //personsElement.innerHTML +="<p>" + array[index].name + "</p><p>" + array[index].age + "</p>";
+      });
+*/
+      persons.forEach((value) => {
+        personsElement.innerHTML +=
+          "<p>" + value.name + "</p><p>" + value.age + "</p>";
+      });
+
+      function clearTxtinH1() {
+        //document.getElementById("click-txt").innerHTML = "";
+        //document.getElementById("click-txt").style.display = "none";
+        //document.getElementById("click-txt").setAttribute("style", "display:none");
+      }
+    </script>
+  </body>
+</html>
